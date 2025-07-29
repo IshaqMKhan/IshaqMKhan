@@ -2,7 +2,7 @@
 
 I'm Ishaq Muhammad.
 
-💻 Currently working as research assistant at MIP Lab, Chosun University. 
+💻 Currently working as research assistant at MIP Lab, Chosun University.  
 🎓 Completed M.S. with specialization in AI from Chosun University.  
 🎓 Completed Bachelor's from University of Peshawar.  
 📚 Focused on Machine Learning, Deep Learning, and Computer Vision.
