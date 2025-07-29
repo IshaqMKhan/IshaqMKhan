@@ -7,8 +7,15 @@ I'm Ishaq Muhammad.
 🎓 Completed Bachelor's from University of Peshawar.  
 📚 Focused on Machine Learning, Deep Learning, and Computer Vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-url.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Homepage-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Homepage"/>
+  </a>
+</p>
 
 ## Skills & Tools
 
