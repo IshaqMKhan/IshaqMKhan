@@ -8,14 +8,15 @@ I'm Ishaq Muhammad.
 📚 Focused on Machine Learning, Deep Learning, and Computer Vision.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" title="Visit my LinkedIn" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-portfolio-url.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Homepage-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Homepage"/>
+  <a href="https://your-portfolio-url.com" title="Go to my Homepage" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Homepage-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Homepage" />
   </a>
 </p>
+
 
 ## Skills & Tools
 
