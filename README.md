@@ -9,11 +9,11 @@ I'm Ishaq Muhammad.
 
 <p align="center">
   <span style="text-decoration: none;">
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" title="Visit my LinkedIn" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/ishaq-muhammad-97749819b/" title="Visit my LinkedIn" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://your-portfolio-url.com" title="Go to my Homepage" target="_blank" style="text-decoration: none;">
+    <a href="[https://ishaqmkhan.github.io/](https://ishaqmkhan.github.io/)" title="Go to my Homepage" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Homepage-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Homepage" />
     </a>
   </span>
