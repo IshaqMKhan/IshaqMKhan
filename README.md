@@ -7,12 +7,16 @@ I'm Ishaq Muhammad.
 🎓 Completed Bachelor's from University of Peshawar.  
 📚 Focused on Machine Learning, Deep Learning, and Computer Vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaq-muhammad-97749819b/) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://ishaqmkhan.github.io/)
+<div style="text-align: center;">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaq-muhammad-97749819b/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://ishaqmkhan.github.io/)
 
-
+</div>
 
 ## Skills & Tools
+
+<div style="text-align: center;">
 
 <p>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
@@ -35,6 +39,7 @@ I'm Ishaq Muhammad.
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/></a>
 </p>
 
+</div>
 
 
 
