@@ -9,7 +9,7 @@ I'm Ishaq Muhammad.
 
 <p align="center">
   <span style="text-decoration: none;">
-    <a href="https://www.linkedin.com/in/ishaq-muhammad-97749819b/" title="Visit my LinkedIn" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/ishaqmkhan/" title="Visit my LinkedIn" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
